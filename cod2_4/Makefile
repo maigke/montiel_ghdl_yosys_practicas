@@ -28,7 +28,7 @@ sudo-prog: $(PROJ).bin
 	sudo iceprog $<
 
 clean:
-	rm -f $(PROJ).blif $(PROJ).asc $(PROJ).rpt $(PROJ).bin work-obj93.cf
+	rm -f $(PROJ).blif $(PROJ).asc $(PROJ).rpt $(PROJ).bin work-obj93.cf $(PROJ).o $(PROJ).bin $(PROJ).json
 
 .SECONDARY:
 .PHONY: all prog clean

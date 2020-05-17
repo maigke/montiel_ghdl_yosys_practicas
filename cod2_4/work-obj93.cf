@@ -1,4 +1,0 @@
-v 4
-file . "cod2_4.vhd" "e063e8ebb63349f4afc8301a82ad033fa6756442" "20200517173651.621":
-  entity cod2_4 at 15( 371) + 0 on 11;
-  architecture arq1 of cod2_4 at 27( 621) + 0 on 12;
