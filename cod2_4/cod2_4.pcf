@@ -1,0 +1,12 @@
+#-- Led Verde 
+set_io Y_L[3] 96
+set_io Y_L[2] 97
+set_io Y_L[1] 98
+set_io Y_L[0] 99
+
+
+#-- Terminales BR10(44) y BR9(45)
+
+set_io en   45
+set_io I[1] 47
+set_io I[0] 48

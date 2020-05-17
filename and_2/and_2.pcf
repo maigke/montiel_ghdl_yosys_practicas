@@ -1,0 +1,5 @@
+#-- Led Verde 
+set_io c 95
+#-- Terminales BR10(44) y BR9(45)
+set_io a 44
+set_io b 45
