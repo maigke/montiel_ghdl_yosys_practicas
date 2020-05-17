@@ -1,4 +1,4 @@
 *.asc
 *.blif
 *.o
-/tstVerilog
+/tstVerilog/*
