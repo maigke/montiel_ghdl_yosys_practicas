@@ -1,4 +1,0 @@
-v 4
-file . "uno.vhdl" "542ecedfd8720cce4dd5a00ea6ca781c47dc731a" "20200517034822.403":
-  entity uno at 1( 0) + 0 on 11;
-  architecture test of uno at 9( 167) + 0 on 12;

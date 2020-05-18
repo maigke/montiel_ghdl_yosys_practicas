@@ -1,4 +1,4 @@
-PROJ = Counter8AsincClear
+PROJ = clkdiv
 PIN_DEF = $(PROJ).pcf
 PROJ_DIR =$(HOME)/Documents/Projects/APIO
 GHDL_S =/usr/share/yosys/plugins/ghdl.so

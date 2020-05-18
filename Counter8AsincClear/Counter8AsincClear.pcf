@@ -1,0 +1,15 @@
+#-- Led Verde 
+set_io q[7]  95  #LEDS
+set_io q[6]  96
+set_io q[5]  97
+set_io q[4]  98
+set_io q[3]  99
+set_io q[2]  78
+set_io q[1]  79
+set_io q[0]  80
+			
+
+#-- Terminales BR10(44) y BR9(45)
+
+set_io clock 44
+set_io reset 45

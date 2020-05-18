@@ -1,0 +1,4 @@
+v 4
+file . "clk2_5ms.vhd" "77dac676b174313656352ddee466b416947ebd6d" "20200518045218.310":
+  entity clk2_5ms at 17( 556) + 0 on 11;
+  architecture arq1 of clk2_5ms at 28( 761) + 0 on 12;

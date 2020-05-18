@@ -1,0 +1,8 @@
+#-- Led Verde 
+set_io q2_5m 99
+
+
+#-- Terminales BR10(44) y BR9(45)
+
+set_io mclk 21
+set_io clr  44
